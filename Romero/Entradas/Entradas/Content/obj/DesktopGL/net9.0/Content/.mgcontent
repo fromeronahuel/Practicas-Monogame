@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Redes-04/Profe Romero/Entradas/Entradas/Content/Archivo_Condensed-Black.ttf</File>
+    <File>C:/Users/Redes-04/Profe Romero/Entradas/Entradas/Content/font/Archivo-Italic-VariableFont_wdth,wght.ttf</File>
+    <File>C:/Users/Redes-04/Profe Romero/Entradas/Entradas/Content/imagenes/logoMonogame.png</File>
+    <File>C:/Users/Redes-04/Profe Romero/Entradas/Entradas/Content/imagenes/sonic.png</File>
+    <File>C:/Users/Redes-04/Profe Romero/Entradas/Entradas/Content/imagenes/sonic2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>font/fuente1.ttf</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
